@@ -6,6 +6,7 @@ Suggestions and pull requests are welcome. The goal is to make this a collaborat
   * [Question Answering](#question-answering)
 
 ## Question Answering
+  * **(SQuAD)** SQuAD: 100,000+ Questions for Machine Comprehension of Text, 2016 [[paper]](http://arxiv.org/abs/1606.05250) [[data]](http://stanford-qa.com)  
   * **(Story Cloze)** A Corpus and Cloze Evaluation for Deeper Understanding of
 Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](http://cs.rochester.edu/nlp/rocstories)  
   * **(Children's Book Test)** The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations, 2015 [[paper]](http://arxiv.org/abs/1511.02301) [[data]](http://cs.rochester.edu/nlp/rocstories)
