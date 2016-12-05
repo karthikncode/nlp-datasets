@@ -7,6 +7,7 @@ Suggestions and pull requests are welcome. The goal is to make this a collaborat
   * [Dialogue Systems](#dialogue-systems)
 
 ## Question Answering
+  * **(NewsQA)** NewsQA: A Machine Comprehension Dataset, 2016 [[paper]](https://arxiv.org/abs/1611.09830) [[data]](https://github.com/Maluuba/newsqa)
   * **(SQuAD)** SQuAD: 100,000+ Questions for Machine Comprehension of Text, 2016 [[paper]](http://arxiv.org/abs/1606.05250) [[data]](http://stanford-qa.com)
   * **(GraphQuestions)** On Generating Characteristic-rich Question Sets for QA Evaluation, 2016 [[paper]](http://cs.ucsb.edu/~ysu/papers/emnlp16_graphquestions.pdf) [[data]](https://github.com/ysu1989/GraphQuestions)
   * **(Story Cloze)** A Corpus and Cloze Evaluation for Deeper Understanding of
