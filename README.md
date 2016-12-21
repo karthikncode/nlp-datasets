@@ -5,6 +5,7 @@ Suggestions and pull requests are welcome. The goal is to make this a collaborat
 # Areas
   * [Question Answering](#question-answering)
   * [Dialogue Systems](#dialogue-systems)
+  * [Goal-Oriented Dialogue Systems](#goal-oriented-dialogue-systems)
 
 ## Question Answering
   * **(MS MARCO)** MS MARCO: A Human Generated MAchine Reading COmprehension Dataset, 2016 [[paper]](https://arxiv.org/abs/1611.09268) [[data]](http://www.msmarco.org/)
@@ -23,3 +24,7 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
 
 ## Dialogue Systems
   * **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[paper]](http://arxiv.org/abs/1506.08909) [[data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
+
+## Goal-Oriented Dialogue Systems
+  * **(Frames)** Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems, 2016 [[paper]](https://drive.google.com/open?id=0B0NbdOVyfuu1bEEwaXJ5UzJUSWs) [[data]](http://datasets.maluuba.com/Frames)
+  * **(DSTC 2 & 3)** Dialog State Tracking Challenge 2 & 3, 2013 [[paper]](http://camdial.org/~mh521/dstc/downloads/handbook.pdf) [[data]](http://camdial.org/~mh521/dstc/)
