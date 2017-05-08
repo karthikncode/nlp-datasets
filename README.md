@@ -19,7 +19,7 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
   * **(WikiQA)** WikiQA: A Challenge Dataset for Open-Domain Question Answering, 2015 [[paper]](http://research.microsoft.com/pubs/252176/YangYihMeek_EMNLP-15_WikiQA.pdf) [[data]](http://research.microsoft.com/en-US/downloads/4495da01-db8c-4041-a7f6-7984a4f6a905/default.aspx)
   * **(CNN-DailyMail)** Teaching Machines to Read and Comprehend, 2015 [[paper]](http://arxiv.org/abs/1506.03340) [[code to generate]](https://github.com/deepmind/rc-data)  [[data]](http://cs.nyu.edu/~kcho/DMQA/)
   * **(QuizBowl)** A Neural Network for Factoid Question Answering over Paragraphs, 2014 [[paper]](https://www.cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf) [[data]](https://www.cs.umd.edu/~miyyer/qblearn/index.html)
-  * **(MCTest)** MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text, 2013 [[paper]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/MCTest_EMNLP2013.pdf) [[data]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/data.html)
+  * **(MCTest)** MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text, 2013 [[paper]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/MCTest_EMNLP2013.pdf) [[data]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/data.html) [[alternate data link]](https://github.com/mcobzarenco/mctest/tree/master/data/MCTest)  
   * **(QASent)** What is the Jeopardy model? A quasisynchronous grammar for QA, 2007 [[paper]](http://homes.cs.washington.edu/~nasmith/papers/wang+smith+mitamura.emnlp07.pdf) [[data]](http://cs.stanford.edu/people/mengqiu/data/qg-emnlp07-data.tgz)
 
 ## Dialogue Systems
