@@ -15,7 +15,7 @@ Suggestions and pull requests are welcome. The goal is to make this a collaborat
   * **(GraphQuestions)** On Generating Characteristic-rich Question Sets for QA Evaluation, 2016 [[paper]](http://cs.ucsb.edu/~ysu/papers/emnlp16_graphquestions.pdf) [[data]](https://github.com/ysu1989/GraphQuestions)
   * **(Story Cloze)** A Corpus and Cloze Evaluation for Deeper Understanding of
 Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](http://cs.rochester.edu/nlp/rocstories)
-  * **(Children's Book Test)** The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations, 2015 [[paper]](http://arxiv.org/abs/1511.02301) [[data]](http://cs.rochester.edu/nlp/rocstories)
+  * **(Children's Book Test)** The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations, 2015 [[paper]](http://arxiv.org/abs/1511.02301) [[data]](http://www.thespermwhale.com/jaseweston/babi/CBTest.tgz)
   * **(SimpleQuestions)** Large-scale Simple Question Answering with Memory Networks, 2015 [[paper]](http://arxiv.org/pdf/1506.02075v1.pdf) [[data]](https://www.dropbox.com/s/tohrsllcfy7rch4/SimpleQuestions_v2.tgz)
   * **(WikiQA)** WikiQA: A Challenge Dataset for Open-Domain Question Answering, 2015 [[paper]](http://research.microsoft.com/pubs/252176/YangYihMeek_EMNLP-15_WikiQA.pdf) [[data]](http://research.microsoft.com/en-US/downloads/4495da01-db8c-4041-a7f6-7984a4f6a905/default.aspx)
   * **(CNN-DailyMail)** Teaching Machines to Read and Comprehend, 2015 [[paper]](http://arxiv.org/abs/1506.03340) [[code to generate]](https://github.com/deepmind/rc-data)  [[data]](http://cs.nyu.edu/~kcho/DMQA/)
