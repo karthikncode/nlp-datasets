@@ -27,5 +27,6 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
   * **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[paper]](http://arxiv.org/abs/1506.08909) [[data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
 
 ## Goal-Oriented Dialogue Systems
+  * **(KVRET)** Key-Value Retrieval Networks for Task-Oriented Dialogue, 2017 [[paper]](https://arxiv.org/abs/1705.05414) [[data]](https://nlp.stanford.edu/blog/a-new-multi-turn-multi-domain-task-oriented-dialogue-dataset/)
   * **(Frames)** Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems, 2016 [[paper]](https://arxiv.org/abs/1704.00057) [[data]](http://datasets.maluuba.com/Frames)
   * **(DSTC 2 & 3)** Dialog State Tracking Challenge 2 & 3, 2013 [[paper]](http://camdial.org/~mh521/dstc/downloads/handbook.pdf) [[data]](http://camdial.org/~mh521/dstc/)
