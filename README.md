@@ -8,6 +8,7 @@ Suggestions and pull requests are welcome. The goal is to make this a collaborat
   * [Goal-Oriented Dialogue Systems](#goal-oriented-dialogue-systems)
 
 ## Question Answering
+* **(VQR)** Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering, 2017 [[paper]](https://arxiv.org/pdf/1612.00837.pdf) [[data]](http://www.visualqa.org/)
   * **(NLVR)** A Corpus of Natural Language for Visual Reasoning, 2017 [[paper]](http://yoavartzi.com/pub/slya-acl.2017.pdf) [[data]](http://lic.nlp.cornell.edu/nlvr)
   * **(MS MARCO)** MS MARCO: A Human Generated MAchine Reading COmprehension Dataset, 2016 [[paper]](https://arxiv.org/abs/1611.09268) [[data]](http://www.msmarco.org/)
   * **(NewsQA)** NewsQA: A Machine Comprehension Dataset, 2016 [[paper]](https://arxiv.org/abs/1611.09830) [[data]](https://github.com/Maluuba/newsqa)
