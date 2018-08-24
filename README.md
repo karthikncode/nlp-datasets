@@ -22,6 +22,7 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
   * **(QuizBowl)** A Neural Network for Factoid Question Answering over Paragraphs, 2014 [[paper]](https://www.cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf) [[data]](https://www.cs.umd.edu/~miyyer/qblearn/index.html)
   * **(MCTest)** MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text, 2013 [[paper]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/MCTest_EMNLP2013.pdf) [[data]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/data.html) [[alternate data link]](https://github.com/mcobzarenco/mctest/tree/master/data/MCTest)  
   * **(QASent)** What is the Jeopardy model? A quasisynchronous grammar for QA, 2007 [[paper]](http://homes.cs.washington.edu/~nasmith/papers/wang+smith+mitamura.emnlp07.pdf) [[data]](http://cs.stanford.edu/people/mengqiu/data/qg-emnlp07-data.tgz)
+  * **(QuAC)** QuAC : Question Answering in Context [[paper]](https://arxiv.org/pdf/1808.07036.pdf) [[data]](https://s3.amazonaws.com/my89public/quac/train.json)
 
 ## Dialogue Systems
   * **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[paper]](http://arxiv.org/abs/1506.08909) [[data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
