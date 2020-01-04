@@ -6,6 +6,7 @@ Suggestions and pull requests are welcome. The goal is to make this a collaborat
   * [Question Answering](#question-answering)
   * [Dialogue Systems](#dialogue-systems)
   * [Goal-Oriented Dialogue Systems](#goal-oriented-dialogue-systems)
+  * [Language Modeling](#language-modeling)
 
 ## Question Answering
   * **(NLVR)** A Corpus of Natural Language for Visual Reasoning, 2017 [[paper]](http://yoavartzi.com/pub/slya-acl.2017.pdf) [[data]](http://lic.nlp.cornell.edu/nlvr)
@@ -22,6 +23,8 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
   * **(QuizBowl)** A Neural Network for Factoid Question Answering over Paragraphs, 2014 [[paper]](https://www.cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf) [[data]](https://www.cs.umd.edu/~miyyer/qblearn/index.html)
   * **(MCTest)** MCTest: A Challenge Dataset for the Open-Domain Machine Comprehension of Text, 2013 [[paper]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/MCTest_EMNLP2013.pdf) [[data]](http://research.microsoft.com/en-us/um/redmond/projects/mctest/data.html) [[alternate data link]](https://github.com/mcobzarenco/mctest/tree/master/data/MCTest)  
   * **(QASent)** What is the Jeopardy model? A quasisynchronous grammar for QA, 2007 [[paper]](http://homes.cs.washington.edu/~nasmith/papers/wang+smith+mitamura.emnlp07.pdf) [[data]](http://cs.stanford.edu/people/mengqiu/data/qg-emnlp07-data.tgz)
+  * **(DeepMind Question Answering Corpus)** Question answering dataset featured in "Teaching Machines to Read and Comprehend [[repo]](https://github.com/deepmind/rc-data)
+  * **(Amazon Question Answering Corpus)** This dataset contains Question and Answer data from Amazon, totaling around 1.4 million answered questions. [[download]] (http://jmcauley.ucsd.edu/data/amazon/qa/)
 
 ## Dialogue Systems
   * **(Ubuntu Dialogue Corpus)** The Ubuntu Dialogue Corpus : A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems, 2015 [[paper]](http://arxiv.org/abs/1506.08909) [[data]](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
@@ -29,3 +32,7 @@ Commonsense Stories, 2016 [[paper]](http://arxiv.org/abs/1604.01696) [[data]](ht
 ## Goal-Oriented Dialogue Systems
   * **(Frames)** Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems, 2016 [[paper]](https://arxiv.org/abs/1704.00057) [[data]](http://datasets.maluuba.com/Frames)
   * **(DSTC 2 & 3)** Dialog State Tracking Challenge 2 & 3, 2013 [[paper]](http://camdial.org/~mh521/dstc/downloads/handbook.pdf) [[data]](http://camdial.org/~mh521/dstc/)
+
+## Language Modeling
+* **(Google 1 Billion Word Corpus)** A freely available corpus of relatively large size for building and testing language models accompanied by baseline N-gram models [[download]](https://opensource.google/projects/lm-benchmark)
+* **(Project Gutenberg)** A large collection of free books that can be retrieved in plain text for a variety of languages [[download]](https://www.gutenberg.org/)
